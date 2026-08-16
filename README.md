@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Marcel 👋
 
-<!--
-**richmar97/richmar97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT System & Atlassian Administrator focusing on **Cloud Infrastructure, Infrastructure as Code (Terraform, CloudFormation) & Cloud Security**.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Cloud & IaC:** AWS (VPC, IAM, EC2, S3, RDS, CloudWatch), Terraform / HCL
+- **Security & Systems:** Cloud Security, Least-Privilege IAM, Linux, Bash, Git
+- **Operations & ITSM:** Jira, Confluence, Atlassian Organization Administration
+- **Currently Leveling Up:** Docker, Kubernetes, Container Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📜 Certifications & Education
+- **AWS Certified Solutions Architect – Associate**
+- **ISC2 Certified in Cybersecurity (CC)**
+- **B.Sc. Computer Science** (Focus: Cyber Security) *(ongoing)*
+
+### 🔭 Current Focus & Roadmap
+- Architecting modular, secure AWS environments with Terraform.
+- Implementing least-privilege IAM policies and cloud security baselines.
+- Containerizing applications with Docker and deploying to AWS container workloads.
+
+---
+📫 **Connect:** [LinkedIn](https://linkedin.com/in/marcel-reich-8b-3b-2b285)

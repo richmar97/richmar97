@@ -13,6 +13,8 @@ Systems & Cloud Engineer with a strong background in enterprise system administr
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
@@ -20,7 +22,6 @@ Systems & Cloud Engineer with a strong background in enterprise system administr
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" />
 </p>
-
 * **Cloud & IaC:** AWS (VPC, IAM, SSM, S3, RDS, CloudWatch), Terraform (HCL), Automated Landing Zones
 * **Security & IAM:** Least-Privilege IAM, Zero Trust Architecture, VPC Interface Endpoints, Hardening Baselines
 * **Systems & Enterprise IT:** Linux/Unix Administration, Active Directory & Microsoft Entra ID, Atlassian Org Administration (Jira, Confluence)

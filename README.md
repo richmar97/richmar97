@@ -1,8 +1,8 @@
-# Hi, I'm Marcel 👋
+# Hello, I'm Marcel 👋
 
 ### Cloud Infrastructure & Systems Engineer | AWS Certified | Terraform & Security
 
-Systems & Cloud Engineer with a strong background in enterprise system administration, identity management, and infrastructure operations. Transitioning deep into **AWS Cloud Architecture**, **Infrastructure as Code (Terraform)**, and **Cloud Security**, while exploring **secure AI platform workloads**.
+Systems & Cloud Engineer with a strong background in enterprise system administration, identity management, and infrastructure operations. Transitioning deep into **AWS Cloud Architecture**, **Infrastructure as Code (Terraform)**, and **Cloud Security**, and **AI infrastructure** , with a focus on building and **securing AI-powered cloud workloads**.
 
 *Bridging hands-on operational systems engineering with automated, secure cloud baselines.*
 

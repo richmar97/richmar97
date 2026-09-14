@@ -22,10 +22,11 @@ Systems & Cloud Engineer with a strong background in enterprise system administr
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" />
 </p>
-**Cloud & IaC:** AWS (VPC, IAM, SSM, S3, RDS, CloudWatch), Terraform (HCL), Automated Landing Zones
-**Security & IAM:** Least-Privilege: IAM, Zero Trust Architecture, VPC Interface Endpoints, Hardening Baselines
-**Systems & Enterprise IT:** Linux/Unix Administration, Active Directory & Microsoft Entra ID, Atlassian Org Administration (Jira, Confluence)
-**Currently Exploring:** Secure AI Deployments (AWS Bedrock, Private RAG Pipelines), Container Security & Kubernetes (EKS)
+
+- **Cloud & IaC:** AWS (VPC, IAM, SSM, S3, RDS, CloudWatch), Terraform (HCL), Automated Landing Zones
+- **Security & IAM:** Least-Privilege IAM, Zero Trust Architecture, VPC Interface Endpoints, Hardening Baselines
+- **Systems & Enterprise IT:** Linux/Unix Administration, Active Directory & Microsoft Entra ID, Atlassian Org Administration (Jira, Confluence)
+- **Currently Exploring:** Secure AI Deployments (AWS Bedrock, Private RAG Pipelines), Container Security & Kubernetes (EKS), DevSecOps & Cloud Compliance (CIS Benchmarks, NIS2)
 
 ---
 

@@ -45,8 +45,8 @@ Systems & Cloud Engineer with a strong background in enterprise system administr
 ### 📜 Certifications & Education
 
 * 🎓 **B.Sc. in Computer Science (Focus: Cyber Security)** – *Deutsche Hochschule (ongoing)*
-* 🏆 **AWS Certified Solutions Architect – Associate (SAA-C03)**
-* 🛡️ **ISC2 Certified in Cybersecurity (CC)**
+* **AWS Certified Solutions Architect – Associate (SAA-C03)**
+* **ISC2 Certified in Cybersecurity (CC)**
 
 ---
 

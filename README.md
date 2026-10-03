@@ -37,6 +37,10 @@ Systems & Cloud Engineer with a strong background in enterprise system administr
 * **[secure-aws-foundation](https://github.com/richmar97/secure-aws-foundation)**  
   *Production-grade, modular AWS landing zone built with Terraform. Features isolated private subnets, secure management access via VPC Interface Endpoints (AWS Systems Manager), strictly scoped IAM roles, and Zero-Trust access patterns without public bastions or open SSH ports.*
 
+* **[aws-secure-container-pipeline]
+.(https://github.com/richmar97/aws-secure-container-pipeline).**
+  *Automated DevSecOps pipeline with multi-stage Docker builds, continuous vulnerability scanning (Trivy/tfsec), and immutable, KMS-encrypted ECR deployments via Terraform.*
+
 ---
 
 ### 📜 Certifications & Education
